@@ -1,0 +1,13 @@
+{
+  "name": "LM75a I2C protocol decoder",
+  "apiVersion": "1.0.0",
+  "author": "GPTechinno",
+  "version": "0.1.0",
+  "description": "LM75a I2C protocol decoder",
+  "extensions": {
+    "LM75a I2C protocol decoder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
